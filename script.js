@@ -31,7 +31,7 @@
 // let users = [john, pete, mary];
 
 // let names = users.map((user) => user.name);
-// console.log(names);
+// alert(names);
 
 // #######################################################################################################
 
